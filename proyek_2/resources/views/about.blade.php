@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto text-center">
-                    <h1 class="fw-bold text-purple mb-4">Tentang Klinik Hewan Ungu</h1>
+                    <h1 class="fw-bold text-purple mb-4">Tentang Klinik DV Pets</h1>
                     <p class="lead">Kami berkomitmen memberikan perawatan kesehatan terbaik untuk hewan peliharaan Anda</p>
                 </div>
             </div>
@@ -19,7 +19,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 mb-4 mb-lg-0">
                     <h2 class="fw-bold text-purple mb-4">Visi & Misi Kami</h2>
-                    <p class="mb-4">Klinik Hewan Ungu didirikan dengan visi untuk menjadi penyedia layanan kesehatan hewan terdepan yang memberikan perawatan komprehensif dengan standar tertinggi.</p>
+                    <p class="mb-4">Klinik Hewan DV Pets didirikan dengan visi untuk menjadi penyedia layanan kesehatan hewan terdepan yang memberikan perawatan komprehensif dengan standar tertinggi.</p>
                     
                     <h5 class="fw-bold text-purple">Visi</h5>
                     <p class="mb-4">Menjadi klinik hewan terpercaya yang memberikan kontribusi positif bagi kesehatan dan kesejahteraan hewan peliharaan di Indonesia.</p>

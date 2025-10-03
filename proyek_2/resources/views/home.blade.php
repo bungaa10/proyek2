@@ -73,7 +73,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 mb-4 mb-lg-0">
-                    <h2 class="fw-bold text-purple mb-4">Mengapa Memilih Klinik Hewan Ungu?</h2>
+                    <h2 class="fw-bold text-purple mb-4">Mengapa Memilih Klinik DV Pets?</h2>
                     <p class="mb-4">Kami adalah klinik hewan yang berkomitmen memberikan perawatan terbaik dengan tim dokter hewan berpengalaman dan fasilitas modern.</p>
                     
                     <ul class="list-unstyled">
