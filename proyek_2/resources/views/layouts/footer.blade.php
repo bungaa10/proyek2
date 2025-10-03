@@ -39,7 +39,7 @@
                 <ul class="list-unstyled">
                     <li class="mb-2">
                         <i class="fas fa-map-marker-alt me-2"></i>
-                        Jl. Kesehatan Hewan No. 123, Jakarta
+                        Jl. Pahlawan, indramayu, Jawa Barat
                     </li>
                     <li class="mb-2">
                         <i class="fas fa-phone me-2"></i>
