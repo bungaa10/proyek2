@@ -14,52 +14,59 @@
     </section>
 
     <!-- Layanan Unggulan -->
-    <section class="py-5">
-        <div class="container">
-            <div class="text-center mb-5">
-                <h2 class="fw-bold text-purple">Layanan Unggulan Kami</h2>
-                <p class="text-muted">Berbagai layanan kesehatan hewan dengan standar tertinggi</p>
+    <!-- Layanan Unggulan -->
+<section class="py-5">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="fw-bold text-purple">Layanan Unggulan Kami</h2>
+            <p class="text-muted">Berbagai layanan kesehatan hewan dengan standar tertinggi</p>
+        </div>
+        
+        <div class="row g-4">
+            <!-- Konsultasi Umum -->
+            <div class="col-md-4">
+                <div class="card service-card h-100 text-center p-4">
+                    <div class="card-body">
+                        <div class="bg-purple rounded-circle d-inline-flex align-items-center justify-content-center mb-3" 
+                             style="width: 80px; height: 80px;">
+                            <i class="fas fa-stethoscope text-white fs-3"></i>
+                        </div>
+                        <h5 class="card-title fw-bold text-purple">Konsultasi Umum</h5>
+                        <p class="card-text">Pemeriksaan kesehatan rutin dan konsultasi untuk hewan peliharaan Anda.</p>
+                    </div>
+                </div>
             </div>
             
-            <div class="row g-4">
-                <div class="col-md-4">
-                    <div class="card service-card h-100 text-center p-4">
-                        <div class="card-body">
-                            <div class="bg-purple rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 70px; height: 70px;">
-                                <i class="fas fa-stethoscope text-white fs-4"></i>
-                            </div>
-                            <h5 class="card-title fw-bold">Konsultasi Umum</h5>
-                            <p class="card-text">Pemeriksaan kesehatan rutin dan konsultasi untuk hewan peliharaan Anda.</p>
+            <!-- Vaksinasi -->
+            <div class="col-md-4">
+                <div class="card service-card h-100 text-center p-4">
+                    <div class="card-body">
+                        <div class="bg-purple rounded-circle d-inline-flex align-items-center justify-content-center mb-3" 
+                             style="width: 80px; height: 80px;">
+                            <i class="fas fa-syringe text-white fs-3"></i>
                         </div>
+                        <h5 class="card-title fw-bold text-purple">Vaksinasi</h5>
+                        <p class="card-text">Program vaksinasi lengkap untuk melindungi hewan dari berbagai penyakit.</p>
                     </div>
                 </div>
-                
-                <div class="col-md-4">
-                    <div class="card service-card h-100 text-center p-4">
-                        <div class="card-body">
-                            <div class="bg-purple rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 70px; height: 70px;">
-                                <i class="fas fa-syringe text-white fs-4"></i>
-                            </div>
-                            <h5 class="card-title fw-bold">Vaksinasi</h5>
-                            <p class="card-text">Program vaksinasi lengkap untuk melindungi hewan dari berbagai penyakit.</p>
+            </div>
+            
+            <!-- Perawatan Gigi -->
+            <div class="col-md-4">
+                <div class="card service-card h-100 text-center p-4">
+                    <div class="card-body">
+                        <div class="bg-purple rounded-circle d-inline-flex align-items-center justify-content-center mb-3" 
+                             style="width: 80px; height: 80px;">
+                            <i class="fas fa-tooth text-white fs-3"></i>
                         </div>
-                    </div>
-                </div>
-                
-                <div class="col-md-4">
-                    <div class="card service-card h-100 text-center p-4">
-                        <div class="card-body">
-                            <div class="bg-purple rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 70px; height: 70px;">
-                                <i class="fas fa-tooth text-white fs-4"></i>
-                            </div>
-                            <h5 class="card-title fw-bold">Perawatan Gigi</h5>
-                            <p class="card-text">Pembersihan gigi dan perawatan kesehatan mulut untuk hewan kesayangan.</p>
-                        </div>
+                        <h5 class="card-title fw-bold text-purple">Perawatan Gigi</h5>
+                        <p class="card-text">Pembersihan gigi dan perawatan kesehatan mulut untuk hewan kesayangan.</p>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 
     <!-- Tentang Kami Singkat -->
     <section class="py-5 bg-light">
